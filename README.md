@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Jim
+
+Welcome to my Github Profile 🙌. I'm an educator, devloper, musician and lifelong learner. I love coffee, coding, games, music, cats, and css doodles. 
 
 <!-- [![resonantdoghouse's GitHub stats](https://github-readme-stats.vercel.app/api?username=resonantdoghouse)](https://github.com/resonantdoghouse/github-readme-stats) -->
 
