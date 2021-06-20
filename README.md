@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![resonantdoghouse's GitHub stats](https://github-readme-stats.vercel.app/api?username=resonantdoghouse)](https://github.com/resonantdoghouse/github-readme-stats)
+
 <!--
 **resonantdoghouse/resonantdoghouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
