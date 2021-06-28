@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=resonantdoghouse&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=default)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=resonantdoghouse&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=default) -->
 <!-- [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou) -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) -->
