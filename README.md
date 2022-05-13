@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=resonantdoghouse&show_icons=true&locale=en" alt="resonantdoghouse" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=resonantdoghouse&" alt="resonantdoghouse" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=resonantdoghouse&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
