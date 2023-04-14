@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jim Bennett</h1>
+<h1 align="center">Hi 👋, I'm Jim Bennett 🐱</h1>
 <h3 align="center">A passionate frontend developer from Vancouver Canada</h3>
 
 ![cat](./images/cat-300.jpeg)
