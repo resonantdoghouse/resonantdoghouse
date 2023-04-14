@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jim Bennett</h1>
 <h3 align="center">A passionate frontend developer from Vancouver Canada</h3>
 
+![cat](./images/cat-300.jpeg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resonantdoghouse&label=Profile%20views&color=0e75b6&style=flat" alt="resonantdoghouse" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=resonantdoghouse" alt="resonantdoghouse" /></a></p>
