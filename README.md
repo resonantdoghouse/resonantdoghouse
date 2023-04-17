@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jim Bennett 🐱</h1>
+<h1 align="center">Hi 👋, I'm Jim Bennett</h1>
 <h3 align="center">A passionate frontend developer from Vancouver Canada</h3>
-
-![cat](./images/cat-300.jpeg)
-
-![cat 2](./images/cat-400.jpeg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resonantdoghouse&label=Profile%20views&color=0e75b6&style=flat" alt="resonantdoghouse" /> </p>
 
