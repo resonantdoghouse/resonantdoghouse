@@ -4,6 +4,8 @@
 
 ### I Enjoy Generative/Programatic Art
 
+![a random cat](images/cat-400.jpeg)
+
 ![fractal animation](images/fractal.gif?raw=true)
 
 ### How it feels sometimes as a developer
