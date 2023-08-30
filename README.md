@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jim Bennett 🐱</h1>
 <h3 align="center">A passionate frontend developer from Vancouver Canada</h3>
 
+
+### I Enjoy Generative Art
+
 ![fractal animation](images/fractal.gif?raw=true)
+
+### How it feels sometimes as a developer
+
+![fractal animation](images/moss.gif?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resonantdoghouse&label=Profile%20views&color=0e75b6&style=flat" alt="resonantdoghouse" /> </p>
  
