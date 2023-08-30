@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from Vancouver Canada</h3>
 
 
-### I Enjoy Generative/Programatic Art
+<h3 align="center">I Enjoy Generative/Programatic Art</h3>
 
 ![fractal animation](images/fractal.gif?raw=true)
 
-### How it feels sometimes as a developer
+<h3 align="center">How it feels sometimes as a developer</h3>
 
 ![fractal animation](images/moss.gif?raw=true)
 
