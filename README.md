@@ -8,7 +8,7 @@
 
 <h3 align="center">How it feels sometimes as a developer</h3>
 
-![fractal animation](images/moss.gif?raw=true)
+<img align="center" src="images/moss.gif?raw=true" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resonantdoghouse&label=Profile%20views&color=0e75b6&style=flat" alt="resonantdoghouse" /> </p>
  
