@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jim Bennett 🐱</h1>
 <h3 align="center">A passionate frontend developer from Vancouver Canada</h3>
 
-![fractal animation]('https://github.com/resonantdoghouse/resonantdoghouse/blob/main/images/fractal.gif')
+![fractal animation]('https://github.com/resonantdoghouse/resonantdoghouse/blob/main/images/fractal.gif?raw=true')
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resonantdoghouse&label=Profile%20views&color=0e75b6&style=flat" alt="resonantdoghouse" /> </p>
  
