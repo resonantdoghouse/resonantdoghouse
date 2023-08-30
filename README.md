@@ -8,7 +8,7 @@
 
 ### How it feels sometimes as a developer
 
-![fractal animation](images/moss.gif?raw=true)
+![Moss from IT crowd, working away with a fire in front of him](images/moss.gif?raw=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resonantdoghouse&label=Profile%20views&color=0e75b6&style=flat" alt="resonantdoghouse" /> </p>
  
