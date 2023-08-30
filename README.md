@@ -4,13 +4,13 @@
 
 ### I Enjoy Generative/Programatic Art
 
-![a random cat](images/cat-400.jpeg)
-
 ![fractal animation](images/fractal.gif?raw=true)
 
 ### How it feels sometimes as a developer
 
 ![Moss from IT crowd, working away with a fire in front of him](images/moss.gif?raw=true)
+
+![a random cat](images/snake-git.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resonantdoghouse&label=Profile%20views&color=0e75b6&style=flat" alt="resonantdoghouse" /> </p>
  
