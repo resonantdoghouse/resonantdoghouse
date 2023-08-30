@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jim Bennett 🐱</h1>
 <h3 align="center">A passionate frontend developer from Vancouver Canada</h3>
 
-<div style="text-align: center;">
+<div align="center">
 ![fractal animation](images/fractal.gif?raw=true)
 </div>
 
