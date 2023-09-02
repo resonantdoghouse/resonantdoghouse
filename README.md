@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jim Bennett 🐱
 
-## A passionate frontend developer from Vancouver Canada
+## Developer/CatDad from Vancouver Canada
 
 ### I Enjoy Generative/Programatic Art
 
