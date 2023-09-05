@@ -11,7 +11,7 @@
 ![Moss from IT crowd, working away with a fire in front of him](images/moss.gif?raw=true)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="/resonantdoghouse/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="/resonantdoghouse/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
