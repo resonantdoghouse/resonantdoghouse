@@ -2,7 +2,7 @@
 
 ## Developer/CatDad from Vancouver Canada
 
-<img src="blob/main/images/fractal.gif" />
+<img src="./images/fractal.gif" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/resonantdoghouse/resonantdoghouse/output/github-contribution-grid-snake-dark.svg" />
