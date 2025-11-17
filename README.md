@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jim Bennett 🐱🐱🐱 
+# Hi 👋, I'm Jim Bennett 🐱
 
 ## Developer/CatDad from Vancouver Canada
 
@@ -9,10 +9,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/resonantdoghouse/resonantdoghouse/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/resonantdoghouse/resonantdoghouse/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=resonantdoghouse&label=Profile%20views&color=0e75b6&style=flat" alt="resonantdoghouse" /> </p>
- 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=resonantdoghouse" alt="resonantdoghouse" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
