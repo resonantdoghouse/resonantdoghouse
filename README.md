@@ -15,4 +15,5 @@
 <a href="https://linkedin.com/in/jim-bennett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jim-bennett" height="30" width="40" /></a>
 </p>
 
+<img src="https://res.cloudinary.com/onomicon/image/upload/v1763953644/github_profile_v810jv.gif" alt="geometric animation"/>
 
