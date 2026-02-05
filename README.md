@@ -1,8 +1,6 @@
-# Hi 👋, I'm Jim Bennett 🐱
+# Hi 👋, I'm Jim Bennett
 
-## Developer/CatDad from Vancouver Canada
-
-<img src="https://res.cloudinary.com/onomicon/image/upload/v1763953644/github_profile_v810jv.gif" alt="geometric animation"/>
+## Developer, Educator, Team Lead based out of Vancouver BC
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/resonantdoghouse/resonantdoghouse/output/github-contribution-grid-snake-dark.svg" />
