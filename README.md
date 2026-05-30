@@ -1,6 +1,9 @@
 # Hi 👋, I'm Jim Bennett
+## Software Engineer · Vancouver BC
 
-## Developer, Educator, Team Lead based out of Vancouver BC
+Previously a developer-turned-educator and team lead, now back in the field doing what I love — building for the web.
+
+I'm into **Three.js**, **Web Audio API**, creative front-end experiences, and using AI as a genuine productivity tool rather than a buzzword. I like understanding how things work under the hood and solving problems that don't have obvious answers.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/resonantdoghouse/resonantdoghouse/output/github-contribution-grid-snake-dark.svg" />
